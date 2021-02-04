@@ -1,0 +1,22 @@
+{
+    "name": "遥控练习",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "OSOYOO_IR": "github:song2222/osoyoo_ir#19a55ec4cc2674391687bd3fdff3c6fc58168b2e",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
